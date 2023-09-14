@@ -1,0 +1,13 @@
+package org.javaro.lacture;
+
+public class EX1_2 {
+	public static void main(String[]args)
+	{
+		int garde =4;
+		System.out.print(garde+"학년"+"홍길동");
+		System.out.print(garde+"학년"+"성춘향");
+		System.out.print(garde+"학년"+"이몽룡");
+		System.out.print(garde+"학년"+"만학도");
+	}
+
+}
