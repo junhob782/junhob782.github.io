@@ -1,0 +1,12 @@
+package org.javaro.lacture;
+
+public class EX1_1 {
+	static double PI = 3.141592;
+	
+	public static void main(String[] args) {
+		double rd = 4;
+		double area = rd * rd * PI;
+		
+		System.out.printf("반지름이 %.2f인 원의 면적인 : %e\n", rd,  area);
+	}
+}
